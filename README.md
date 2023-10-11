@@ -1,2 +1,2 @@
 # C-Programming-Workshop
-Atelier de Programmation C - ILISI 1
+Atelier de Programmation C/GTK - ILISI 1
